@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+caption{
+    font-family: "游明朝", "MSPゴシック", serif;
+
+}
+table, th, tr, td{
+    border: solid 3px black
+}
+table, th, td{
+    border-collapse: collapse;
+}
+table{
+    margin: auto;
+}
+th, tr, td{
+    text-align: center;
+}
+thead{
+    background-color: #FF69B4
+}
+
+
